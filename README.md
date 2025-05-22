@@ -26,5 +26,9 @@
 <p>To clone this repository, use the following command:</p>
 <pre><code>git clone https://github.com/ZainabElbouyed/CodeAlpha_ImageGallery.git</code></pre>
 
+<h3>👀 Preview</h3>
+<p>Here are some screenshots of the SnapVerse image gallery in action:</p>
 
+<img src="images/Capture d'écran 2025-05-22 213448.png" alt="Gallery View" style="width: 100%; max-width: 600px; margin-bottom: 20px; border: 1px solid #ccc; border-radius: 8px;">
 
+<img src="images/Capture d'écran 2025-05-22 213506.png" alt="Lightbox View" style="width: 100%; max-width: 600px; border: 1px solid #ccc; border-radius: 8px;">
